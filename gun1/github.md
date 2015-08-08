@@ -61,6 +61,12 @@ git pull --rebase origin master
 git push origin master
 ```
 
+### dosya silme
+```sh
+git rm dosya
+git commit -m "remove dosya"
+```
+
 https://try.github.io/
 * [try.github.io](https://try.github.io/)
 

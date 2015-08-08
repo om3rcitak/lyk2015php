@@ -66,6 +66,11 @@ git push origin master
 git rm dosya
 git commit -m "remove dosya"
 ```
+###history e bakma 
+ ```sh
+ git log -- 
+ ```
+
 
 https://try.github.io/
 * [try.github.io](https://try.github.io/)
